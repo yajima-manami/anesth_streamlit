@@ -1,2 +1,4 @@
-# Ignore specific file types
+\# Ignore specific file types
 *.dylib
+\# Ignore the entire 'myenv' directory
+myenv/
