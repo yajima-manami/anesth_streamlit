@@ -1,0 +1,5 @@
+fastapi
+streamlit
+numpy
+pandas
+xgboost
